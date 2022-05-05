@@ -1,12 +1,24 @@
 # Task - 5-5-2022
 
 ### Tier 1
-1. Create a counter element that increments with the click of a button.
-2. When the counter reaches ten (10), an image should appear.
-3. Upon every subsequent ten clicks (20, 30, etc), another of the same image should appear.
+1. Create a counter with the following buttons to change the counter:
+    * Increment
+    * Decrement
+    * Reset
+
+2. When the counter is equal to or greater than ten (10), an image should appear in the component.
+3. Upon each subsequent ten clicks (20, 30, etc.), another of the same image should appear.
 
 ### Tier 2
-4. Create a redux store to store the number of clicks to the application state.
+4. Fetch random user data from this API: https://randomuser.me/api/.
+5. Create an attractive/organized view of this user data (e.g. table), including at least:
+* first name
+* email
+* image
+
+### Tier 3
+7. Create a redux store to store the number of clicks to the application state.
+8. Add CSS styling
 
 
 # Getting Started with Create React App

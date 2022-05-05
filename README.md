@@ -1,3 +1,14 @@
+# Task - 5-5-2022
+
+### Tier 1
+1. Create a counter element that increments with the click of a button.
+2. When the counter reaches ten (10), an image should appear.
+3. Upon every subsequent ten clicks (20, 30, etc), another of the same image should appear.
+
+### Tier 2
+4. Create a redux store to store the number of clicks to the application state.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
